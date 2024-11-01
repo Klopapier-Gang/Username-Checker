@@ -115,3 +115,5 @@ http|http://[redacted]:3128
 In short, no.
 
 The launcher automatically updates checkers, however some larger features such as multi-threading (support added in launcher beta 0.2) require launcher updates to use, however launcher updates are mostly QOL or bug fixes and are recommended! My goal is to make it so you can use this in any launcher version possible, with full backwards compatibility!
+
+A
